@@ -1,0 +1,201 @@
+Timestamp,Your age,Type of disorder,Sexual Orientation,*Only if non-heterosexual,Social and family context associated with mental disorder,Self esteem and mental wellbeing during your mental disorder,Daily social media usage(in hours),Risky health behaviours,Self-harm or suicide attempt?,Taken professional help?,Was the professional service helpful?
+05-03-2021 22:01,20,Behavioural (or conduct) disorder,Heterosexual,,YES,6,15,None,YES,YES,NO
+05-03-2021 22:09,48,None ,Heterosexual,,NO,9,2,None,NO,YES,NO
+05-03-2021 22:30,21,Behavioural (or conduct) disorder,Heterosexual,,NO,8,5,Alcohol,YES,NO,Maybe
+05-03-2021 22:31,31,Emotional disorder,Heterosexual,,NO,9,2,Tobacco,NO,NO,Maybe
+05-03-2021 22:32,18,None,Heterosexual,,NO,9,1,Tobacco,NO,NO,NO
+05-03-2021 22:42,20,Emotional disorder,Heterosexual,,NO,3,4,Alcohol,NO,NO,NO
+05-03-2021 22:55,21,Emotional disorder,Heterosexual,,YES,4,13,Tobacco,NO,NO,NO
+05-04-2021 04:20,20,none,Heterosexual,,NO,6,7,Drugs,NO,NO,NO
+05-04-2021 10:28,24,Depression,Heterosexual,,YES,8,3,None,NO,NO,YES
+05-04-2021 10:30,20,Emotional disorder,Heterosexual,,YES,5,6,None,YES,NO,NO
+05-04-2021 16:00,23,Emotional disorder,Heterosexual,,NO,7,5,None,NO,NO,Maybe
+05-04-2021 22:52,19,Emotional disorder,Heterosexual,,YES,5,3,Tobacco,NO,YES,NO
+05-05-2021 09:37,20,Emotional disorder,Heterosexual,,YES,4,8,Alcohol,YES,NO,Maybe
+05-08-2021 23:33,20,Emotional disorder,Non-heterosexual,Bisexual,NO,2,00-Jan,Alcohol,NO,YES,YES
+05-08-2021 23:41,21,Eating disorder,Heterosexual,,YES,4,3,Alcohol,NO,NO,YES
+05-09-2021 18:29,21,No,Heterosexual,,NO,6,7,None,NO,YES,NO
+05-09-2021 20:42,21,Emotional disorder,Heterosexual,,YES,8,2,Alcohol,NO,NO,NO
+05-10-2021 19:47,22,Emotional disorder,Heterosexual,,YES,3,02-Jan,Tobacco,NO,NO,Maybe
+05-10-2021 19:53,20,None,Heterosexual,,YES,7,0.5,Drugs,NO,NO,NO
+05-10-2021 19:59,21,Emotional disorder,Non-heterosexual,Bisexual,NO,4,11,Alcohol,NO,YES,YES
+05-10-2021 21:32,22,None,Heterosexual,,NO,9,3,Alcohol,NO,YES,YES
+06-08-2021 11:20,19,None,Heterosexual,,NO,7,7,Alcohol,NO,YES,YES
+,21,,Heterosexual,,NO,5,3,Tobacco,YES,NO,NO
+,21,,Heterosexual,,NO,3,3,Tobacco,NO,YES,YES
+,20,,Heterosexual,,NO,4,2,Tobacco,YES,YES,YES
+,20,,Heterosexual,,NO,3,5,Alcohol,NO,YES,YES
+,21,,Heterosexual,,NO,3,3,None,NO,NO,NO
+,21,,Heterosexual,,NO,9,1,None,YES,NO,NO
+,19,,Heterosexual,,YES,6,4,Alcohol,YES,YES,YES
+,19,,Heterosexual,,NO,3,5,Alcohol,YES,NO,NO
+,21,,Heterosexual,,NO,4,2,None,NO,YES,YES
+,20,,Heterosexual,,NO,6,5,Drugs,NO,YES,YES
+,21,,Heterosexual,,NO,7,3,Tobacco,NO,YES,YES
+,21,,Heterosexual,,NO,8,3,Tobacco,YES,YES,YES
+,21,,Heterosexual,,NO,5,3,Alcohol,NO,YES,YES
+,22,,Non-heterosexual,Gay,YES,3,0,Tobacco,YES,NO,NO
+,20,,Heterosexual,,NO,3,3,Tobacco,NO,NO,NO
+,22,,Heterosexual,,NO,4,2,Tobacco,YES,NO,NO
+,20,,Heterosexual,,NO,4,2,Alcohol,YES,NO,NO
+,20,,Heterosexual,,NO,10,1,Tobacco,NO,NO,NO
+,21,,Heterosexual,,NO,7,7,Alcohol,NO,YES,YES
+,22,,Heterosexual,,NO,10,4,Tobacco,YES,YES,YES
+,20,,Heterosexual,,NO,8,2,Tobacco,YES,NO,NO
+,21,,Heterosexual,,NO,4,5,Tobacco,NO,NO,NO
+,21,,Heterosexual,,NO,6,6,Tobacco,YES,NO,NO
+,21,,Heterosexual,,NO,10,1,Alcohol,YES,NO,NO
+,20,,Heterosexual,,NO,10,2,Alcohol,NO,YES,YES
+,20,,Heterosexual,,NO,3,5,Alcohol,YES,NO,NO
+,21,,Heterosexual,,NO,2,3,Tobacco,YES,YES,YES
+,20,,Heterosexual,,NO,3,2,Alcohol,NO,YES,YES
+,31,,Heterosexual,,NO,4,2,Alcohol,YES,NO,NO
+,22,,Non-heterosexual,Lesbian,NO,3,3,Alcohol,NO,NO,NO
+,19,,Heterosexual,,NO,3,2,None,YES,NO,NO
+,23,,Heterosexual,,YES,5,2,Alcohol,YES,YES,YES
+,21,,Heterosexual,,NO,3,2,None,NO,YES,YES
+,22,,Heterosexual,,YES,3,2,Tobacco,YES,YES,YES
+,20,,Heterosexual,,NO,6,5,Drugs,NO,NO,NO
+,21,,Heterosexual,,NO,2,3,None,YES,YES,YES
+,17,,Heterosexual,,NO,4,1.5,Alcohol,YES,NO,NO
+,20,,Heterosexual,,NO,8,2,Tobacco,YES,YES,YES
+,22,,Heterosexual,,NO,10,2,Tobacco,YES,YES,YES
+,20,,Heterosexual,,NO,6,0,Tobacco,YES,YES,YES
+,24,,Heterosexual,,NO,8,4,Alcohol,YES,NO,NO
+,21,,Heterosexual,,NO,8,8,Alcohol,NO,NO,NO
+,20,,Heterosexual,,NO,8,2,Alcohol,NO,YES,YES
+,21,,Heterosexual,,NO,1,1,Alcohol,NO,NO,NO
+,18,,Heterosexual,,YES,10,1,None,NO,NO,NO
+,22,,Non-heterosexual,Gay,YES,2,1,Alcohol,YES,YES,YES
+,20,,Heterosexual,,NO,10,1,Tobacco,NO,NO,NO
+,20,,Heterosexual,,NO,10,2,Drugs,NO,NO,NO
+,21,,Heterosexual,,NO,10,2,Tobacco,YES,NO,NO
+,18,,Heterosexual,,NO,10,4,Tobacco,YES,NO,NO
+,19,,Heterosexual,,NO,3,2,Tobacco,YES,NO,NO
+,20,,Heterosexual,,NO,9,2,Drugs,YES,NO,NO
+,21,,Heterosexual,,NO,6,1,Drugs,NO,NO,NO
+,19,,Heterosexual,,NO,6,1,None,YES,YES,YES
+,21,,Heterosexual,,NO,10,2,None,YES,YES,
+,19,,Heterosexual,,NO,1,1,None,YES,NO,YES
+,19,,Heterosexual,,NO,6,1,None,YES,NO,YES
+,18,,Heterosexual,,NO,6,5,None,YES,YES,YES
+,20,,Heterosexual,,NO,1,1,Tobacco,YES,NO,YES
+,21,,Heterosexual,,NO,2,1,Alcohol,NO,NO,YES
+,22,,Heterosexual,,NO,2,1,Tobacco,NO,YES,YES
+,20,,Non-heterosexual,Bisexual,NO,7,1,Tobacco,YES,NO,NO
+,18,,Heterosexual,,NO,5,5,Tobacco,YES,YES,YES
+,20,,Heterosexual,,NO,2,2,Tobacco,YES,NO,YES
+,23,,Heterosexual,,YES,4,5,Tobacco,YES,YES,NO
+,20,,Heterosexual,,NO,8,2,Alcohol,YES,NO,NO
+,19,,Heterosexual,,NO,8,4,Tobacco,YES,NO,NO
+,18,,Heterosexual,,NO,3,3,Alcohol,YES,YES,NO
+,20,,Heterosexual,,NO,1,1,Alcohol,YES,NO,NO
+,19,,Heterosexual,,NO,4,5,Alcohol,YES,NO,YES
+,20,,Heterosexual,,NO,10,2,Alcohol,NO,NO,YES
+,22,,Heterosexual,,NO,0,2,Alcohol,NO,YES,NO
+,20,,Heterosexual,,NO,2,3,Alcohol,NO,NO,NO
+,19,,Heterosexual,,NO,8,5,Alcohol,YES,NO,NO
+,18,,Heterosexual,,NO,4,8,Alcohol,YES,NO,YES
+,19,,Heterosexual,,NO,1,4,Tobacco,NO,NO,NO
+,19,,Heterosexual,,NO,1,2,Tobacco,YES,NO,YES
+,20,,Non-heterosexual,Lesbian,YES,1,10,Tobacco,NO,NO,YES
+,20,,Heterosexual,,NO,10,5,Tobacco,YES,YES,NO
+,19,,Heterosexual,,NO,2,2,Tobacco,YES,NO,YES
+,21,,Heterosexual,,NO,2,7,Alcohol,YES,YES,NO
+,21,,Non-heterosexual,Bisexual,YES,4,1,None,NO,NO,NO
+,19,,Heterosexual,,YES,2,3,Drugs,YES,YES,YES
+,20,,Heterosexual,,NO,7,2,Tobacco,YES,YES,YES
+,21,,Heterosexual,,NO,5,1,Alcohol,YES,NO,NO
+,19,,Heterosexual,,NO,6,5,Tobacco,YES,NO,YES
+,20,,Heterosexual,,NO,2,1.5,Alcohol,YES,YES,YES
+,21,,Heterosexual,,NO,6,1,None,NO,YES,YES
+,18,,Heterosexual,,NO,3,1,None,NO,YES,YES
+,19,,Heterosexual,,NO,3,3,Drugs,YES,NO,YES
+,25,,Heterosexual,,NO,7,1,Alcohol,NO,NO,YES
+,19,,Heterosexual,,NO,4,1,Alcohol,YES,NO,YES
+,19,,Heterosexual,,NO,1,2,Alcohol,NO,NO,YES
+,20,,Non-heterosexual,,NO,1,6,Alcohol,YES,YES,NO
+,20,,Heterosexual,,NO,3,4,Alcohol,YES,YES,YES
+,19,,Heterosexual,,NO,4,2,Alcohol,YES,YES,NO
+,19,,Heterosexual,,NO,1,4,Tobacco,YES,YES,YES
+,22,,Heterosexual,,NO,2,4,Tobacco,YES,NO,YES
+,21,,Heterosexual,,YES,6,1,Alcohol,YES,NO,YES
+,21,,Heterosexual,,NO,6,1,Tobacco,NO,YES,NO
+,16,,Heterosexual,,NO,3,2,Alcohol,YES,YES,YES
+,21,,Heterosexual,,YES,10,7,Alcohol,YES,YES,NO
+,21,,Heterosexual,,NO,10,1,Tobacco,NO,NO,YES
+,16,,Heterosexual,,YES,3,3,Tobacco,NO,YES,YES
+,21,,Heterosexual,,NO,3,0.5,Tobacco,YES,YES,YES
+,23,,Non-heterosexual,Gay,NO,8,0.3,Alcohol,NO,NO,YES
+,19,,Non-heterosexual,Bisexual,NO,10,2,None,NO,YES,YES
+,20,,Heterosexual,,NO,8,1,None,NO,NO,YES
+,18,,Heterosexual,,NO,1,1,Alcohol,YES,YES,NO
+,10,,Heterosexual,,NO,4,1,Alcohol,NO,NO,YES
+,20,,Heterosexual,,NO,6,0.15,Alcohol,YES,YES,NO
+,21,,Heterosexual,,NO,6,2,Tobacco,YES,NO,YES
+,19,,Heterosexual,,NO,5,1,Tobacco,YES,YES,YES
+,14,,Heterosexual,,NO,7,4,Tobacco,NO,NO,YES
+,18,,Heterosexual,,NO,7,2,Alcohol,YES,NO,NO
+,18,,Heterosexual,,NO,7,3,Tobacco,NO,NO,YES
+,24,,Heterosexual,,NO,3,2,Alcohol,YES,YES,NO
+,14,,Heterosexual,,NO,10,0.3,Tobacco,YES,NO,YES
+,21,,Heterosexual,,NO,0,2,None,YES,YES,YES
+,19,,Heterosexual,,NO,8,1,Alcohol,YES,YES,YES
+,18,,Non-heterosexual,Lesbian,NO,8,1,None,YES,YES,YES
+,23,,Non-heterosexual,Gay,NO,5,1,Drugs,YES,YES,YES
+,21,,Non-heterosexual,Bisexual,YES,6,1,None,YES,YES,NO
+,18,,Heterosexual,,NO,4,7,None,NO,YES,NO
+,19,,Heterosexual,,NO,3,1,None,NO,YES,YES
+,20,,Heterosexual,,NO,7,2,Tobacco,YES,NO,YES
+,20,,Heterosexual,,NO,7,1,Tobacco,YES,NO,NO
+,19,,Heterosexual,,NO,5,2,Tobacco,NO,YES,YES
+,15,,Heterosexual,,NO,7,4,Alcohol,YES,NO,NO
+,19,,Heterosexual,,NO,5,5,Tobacco,YES,NO,YES
+,20,,Heterosexual,,NO,10,2,Alcohol,YES,YES,YES
+,17,,Heterosexual,,NO,1,1,Tobacco,YES,NO,NO
+,18,,Heterosexual,,NO,3,2,Tobacco,YES,NO,NO
+,20,,Heterosexual,,NO,3,4,Alcohol,YES,YES,NO
+,18,,Heterosexual,,YES,5,1,None,YES,NO,YES
+,22,,Heterosexual,,NO,5,0.3,Alcohol,YES,NO,YES
+,18,,Heterosexual,,NO,10,2,Alcohol,YES,YES,YES
+,15,,Heterosexual,,NO,6,1,Tobacco,YES,NO,YES
+,22,,Heterosexual,,NO,1,1,Tobacco,YES,NO,YES
+,19,,Heterosexual,,NO,6,1,Tobacco,YES,NO,NO
+,20,,Heterosexual,,YES,4,2,Tobacco,YES,NO,YES
+,20,,Heterosexual,,NO,6,2,Tobacco,YES,NO,NO
+,20,,Heterosexual,,NO,10,0,None,YES,NO,YES
+,18,,Heterosexual,,YES,4,1,Alcohol,YES,NO,YES
+,19,,Non-heterosexual,Bisexual,NO,4,2,None,YES,YES,YES
+,14,,Heterosexual,,NO,4,2,None,NO,NO,YES
+,20,,Heterosexual,,NO,4,1,Alcohol,YES,NO,YES
+,20,,Heterosexual,,YES,10,2,Tobacco,NO,NO,NO
+,19,,Heterosexual,,NO,3,2,Alcohol,YES,YES,NO
+,19,,Heterosexual,,NO,6,1,Tobacco,YES,NO,YES
+,18,,Heterosexual,,NO,5,2,Tobacco,NO,YES,NO
+,21,,Heterosexual,,NO,6,2,Tobacco,YES,NO,YES
+,15,,Heterosexual,,NO,5,1,Tobacco,YES,YES,YES
+,20,,Heterosexual,,NO,2,2,Alcohol,NO,YES,YES
+,21,,Heterosexual,,NO,6,1,Alcohol,YES,YES,NO
+,19,,Heterosexual,,NO,3,0.1,Alcohol,YES,NO,YES
+,20,,Heterosexual,,NO,8,2,Alcohol,YES,NO,YES
+,21,,Heterosexual,,NO,3,1,Alcohol,NO,NO,YES
+,21,,Heterosexual,,NO,4,1,Alcohol,YES,YES,YES
+,21,,Heterosexual,,NO,5,2,Alcohol,YES,YES,YES
+,20,,Heterosexual,,NO,7,2,None,NO,YES,YES
+,20,,Heterosexual,,NO,2,4,None,YES,YES,YES
+,23,,Heterosexual,,NO,7,4,None,YES,NO,NO
+,21,,Non-heterosexual,Lesbian,NO,10,1,Drugs,YES,NO,YES
+,22,,Heterosexual,,NO,10,2,Alcohol,NO,NO,YES
+,23,,Heterosexual,,NO,1,4,Tobacco,NO,YES,YES
+,22,,Heterosexual,,NO,5,2,Alcohol,NO,YES,YES
+,21,,Non-heterosexual,Bisexual,NO,10,10,Tobacco,YES,NO,YES
+,20,,Heterosexual,,YES,10,1,Alcohol,NO,NO,NO
+,15,,Heterosexual,,NO,2,1,Tobacco,YES,NO,YES
+,20,,Heterosexual,,NO,10,2,Alcohol,YES,NO,YES
+,20,,Heterosexual,,NO,3,0.5,Tobacco,YES,YES,YES
+,16,,Heterosexual,,NO,8,1,Alcohol,YES,NO,YES
+,22,,Non-heterosexual,Gay,YES,6,1,Alcohol,YES,NO,YES
+,20,,Heterosexual,,NO,5,2,Alcohol,YES,YES,YES
+,21,,Non-heterosexual,Bisexual,NO,1,2,Alcohol,YES,YES,NO
+,34,,Heterosexual,,NO,10,1,None,YES,YES,YES
+,,,,,,,,,,,YES
